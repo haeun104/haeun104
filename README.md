@@ -4,7 +4,7 @@ I find great joy and satisfaction in creating web applications. Currently, I am 
 
 
 ## 🛠 Tool & Tech
-Programming languages: JavaScript, TypeScript
-Framework/library: React, Next.js, Tailwind
-Database : MongoDB, Firebase, Prisma
-Other: HTML, CSS, SASS
+- Programming languages: JavaScript, TypeScript
+- Framework/library: React, Next.js, Tailwind
+- Database : MongoDB, Firebase, Prisma
+- Other: HTML, CSS, SASS
